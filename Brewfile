@@ -11,10 +11,13 @@ tap splhack/homebrew-splhack	# MacVim-Kaoriya
 # build or install
 install git
 install tig
-install wget
 install openssl
+install wget
 install ruby
 install brew-cask
+install --HEAD cmigemo-mk
+install --HEAD ctags-objc-ja
+install --HEAD gettext-mk
 install --HEAD macvim-kaoriya
 
 # cask install
