@@ -3,5 +3,8 @@
 #install Homebrew
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
+# Homebrew Doctor
+brew doctor
+
 #Brewfile
-brew bundle
+#brew bundle

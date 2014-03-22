@@ -1,4 +1,4 @@
-#update Homebrew
+# update Homebrew
 update
 
 # Updateformula
