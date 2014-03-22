@@ -17,7 +17,7 @@ install ruby
 install brew-cask
 install --HEAD cmigemo-mk
 install --HEAD ctags-objc-ja
-install --HEAD gettext-mk
+#install --HEAD gettext-mk
 install --HEAD macvim-kaoriya
 
 # cask install
