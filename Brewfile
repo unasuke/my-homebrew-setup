@@ -5,8 +5,9 @@ update
 upgrade
 
 # Add Repository
-tap phinze/homebrew-cask		# homebrew-cask
-tap splhack/homebrew-splhack	# MacVim-Kaoriya
+tap phinze/homebrew-cask        # homebrew-cask
+#tap splhack/homebrew-splhack   # MacVim-Kaoriya
+tap unasuke/homebrew-unasuke    # MacVim-Kaoriya(binary)
 
 # build or install
 install git
@@ -14,8 +15,8 @@ install tig
 install openssl
 install wget
 install ruby
-#install python3
 install brew-cask
+#install python3
 #install --HEAD cmigemo-mk
 #install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
@@ -41,3 +42,4 @@ cask install sublime-text
 cask install clamxav
 cask install scroll-reverser
 cask install trim-enabler
+cask install macvim-kaoriya
