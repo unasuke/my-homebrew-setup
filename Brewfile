@@ -15,6 +15,7 @@ install tig
 install openssl
 install wget
 install ruby
+install zsh
 install brew-cask
 #install python3
 #install --HEAD cmigemo-mk
