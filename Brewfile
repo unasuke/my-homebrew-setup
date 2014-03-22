@@ -14,12 +14,12 @@ install tig
 install openssl
 install wget
 install ruby
-install python3
+#install python3
 install brew-cask
-install --HEAD cmigemo-mk
-install --HEAD ctags-objc-ja
+#install --HEAD cmigemo-mk
+#install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
-install --HEAD macvim-kaoriya
+#install --HEAD macvim-kaoriya
 
 # cask install
 cask install google-chrome
