@@ -14,6 +14,7 @@ install tig
 install openssl
 install wget
 install ruby
+install python
 install brew-cask
 install --HEAD cmigemo-mk
 install --HEAD ctags-objc-ja
