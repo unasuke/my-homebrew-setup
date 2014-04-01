@@ -20,10 +20,13 @@ install ruby
 install zsh
 install ricty
 install brew-cask
+install cscope
+install lua
+install luajit
 install --HEAD cmigemo-mk
 install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
-install --HEAD macvim-kaoriya
+install --HEAD macvim-kaoriya --with-lua　--with-cscope
 linkapps
 
 # cask install
