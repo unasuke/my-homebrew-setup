@@ -9,6 +9,7 @@ tap phinze/homebrew-cask        # homebrew-cask
 #tap splhack/homebrew-splhack   # MacVim-Kaoriya
 #tap unasuke/homebrew-unasuke   # MacVim-Kaoriya(binary)
 tap supermomonga/homebrew-splhack	#MacVim-Kaoriya
+tap sanemat/font		# Ricty
 
 # build or install
 install git
@@ -17,6 +18,7 @@ install openssl
 install wget
 install ruby
 install zsh
+install ricty
 install brew-cask
 install --HEAD cmigemo-mk
 install --HEAD ctags-objc-ja
