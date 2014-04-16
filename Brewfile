@@ -52,3 +52,4 @@ cask install trim-enabler
 #cask install macvim-kaoriya
 cask install yorufukurou
 cask install xquartz
+cask install arduino
