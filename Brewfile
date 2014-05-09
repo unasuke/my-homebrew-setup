@@ -10,6 +10,7 @@ tap phinze/homebrew-cask        # homebrew-cask
 #tap unasuke/homebrew-unasuke   # MacVim-Kaoriya(binary)
 tap supermomonga/homebrew-splhack	#MacVim-Kaoriya
 tap sanemat/font		# Ricty
+tap homebrew/science		# OpenCV
 
 # build or install
 install git
