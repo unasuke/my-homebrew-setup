@@ -57,3 +57,4 @@ cask install arduino
 cask install caffeine
 cask install coteditor
 cask install mi
+cask install knock
