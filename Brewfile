@@ -11,6 +11,7 @@ tap phinze/homebrew-cask        # homebrew-cask
 tap supermomonga/homebrew-splhack	#MacVim-Kaoriya
 tap sanemat/font		# Ricty
 tap homebrew/science		# OpenCV
+tap caskroom/fonts		# fonts
 
 # build or install
 install git
