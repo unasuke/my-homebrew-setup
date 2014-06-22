@@ -59,3 +59,4 @@ cask install caffeine
 cask install coteditor
 cask install mi
 cask install knock
+cask install font-source-code-pro
