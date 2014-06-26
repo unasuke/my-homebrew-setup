@@ -1,7 +1,7 @@
 # update Homebrew
 update
 
-# Updateformula
+# Update formula
 upgrade
 
 # Add Repository
