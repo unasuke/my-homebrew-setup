@@ -28,7 +28,8 @@ install luajit
 install --HEAD cmigemo-mk
 install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
-install --HEAD macvim-kaoriya --with-lua　--with-cscope
+install --HEAD macvim-kaoriya --with-lua --with-cscope
+install android
 linkapps
 
 # cask install
