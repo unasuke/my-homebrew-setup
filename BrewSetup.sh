@@ -8,7 +8,7 @@ brew upgrade
 brew tap phinze/homebrew-cask        # homebrew-cask
 #tap splhack/homebrew-splhack   # MacVim-Kaoriya
 #tap unasuke/homebrew-unasuke   # MacVim-Kaoriya(binary)
-brew tap supermomonga/homebrew-splhack	#MacVim-Kaoriya
+#brew tap supermomonga/homebrew-splhack	#MacVim-Kaoriya
 brew tap sanemat/font		# Ricty
 brew tap homebrew/science		# OpenCV
 brew tap caskroom/fonts		# fonts
@@ -25,11 +25,13 @@ brew install brew-cask
 brew install cscope
 brew install lua
 brew install luajit
-brew install --HEAD cmigemo-mk
-brew install --HEAD ctags-objc-ja
+#brew install --HEAD cmigemo-mk
+#brew install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
-brew install --HEAD macvim-kaoriya --with-lua --with-cscope
+#brew install --HEAD macvim-kaoriya --with-lua --with-cscope
+brew install macvim --with-luajit --override-system-vim
 brew install android
+
 brew linkapps
 
 # cask install
