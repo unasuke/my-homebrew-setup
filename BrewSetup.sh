@@ -48,7 +48,7 @@ brew cask install mou
 brew cask install virtualbox
 brew cask install vlc
 brew cask install dropbox
-brew cask install keyremap4macbook
+brew cask install karabiner
 brew cask install bettertouchtool
 brew cask install sublime-text
 brew cask install clamxav
