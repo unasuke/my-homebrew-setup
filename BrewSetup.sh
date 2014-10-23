@@ -23,13 +23,13 @@ brew install zsh
 brew install ricty
 brew install brew-cask
 brew install cscope
-brew install lua
-brew install luajit
+brew install lua --universal --with-completion
+brew install luajit --HEAD
 #brew install --HEAD cmigemo-mk
 #brew install --HEAD ctags-objc-ja
 #install --HEAD gettext-mk
 #brew install --HEAD macvim-kaoriya --with-lua --with-cscope
-brew install macvim --with-luajit --override-system-vim
+brew install macvim --with-luajit --override-system-vim --HEAD
 brew install android
 
 brew linkapps
