@@ -63,3 +63,4 @@ brew cask install coteditor
 brew cask install mi
 brew cask install knock
 brew cask install font-source-code-pro
+brew cask install onepassword
