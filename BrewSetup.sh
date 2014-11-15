@@ -31,6 +31,7 @@ brew install luajit --HEAD
 #brew install --HEAD macvim-kaoriya --with-lua --with-cscope
 brew install macvim --with-luajit --override-system-vim --HEAD
 brew install android
+brew install imagemagick
 
 brew linkapps
 
