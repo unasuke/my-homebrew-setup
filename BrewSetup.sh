@@ -32,6 +32,7 @@ brew install luajit --HEAD
 brew install macvim --with-luajit --override-system-vim --HEAD
 brew install android
 brew install imagemagick
+brew install heroku-toolbelt
 
 brew linkapps
 
