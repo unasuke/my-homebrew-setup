@@ -19,6 +19,8 @@ brew install tig
 brew install openssl
 brew install wget
 brew install ruby
+brew install rbenv
+brew install ruby-build
 brew install zsh
 brew install ricty
 brew install brew-cask
