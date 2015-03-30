@@ -58,7 +58,7 @@ brew cask install clamxav
 brew cask install scroll-reverser
 brew cask install trim-enabler
 #cask install macvim-kaoriya
-brew cask install yorufukurou
+#brew cask install yorufukurou
 brew cask install xquartz
 brew cask install arduino
 brew cask install caffeine
@@ -66,5 +66,9 @@ brew cask install coteditor
 brew cask install mi
 #brew cask install knock
 brew cask install font-source-code-pro
-brew cask install onepassword
+brew cask install 1password
 #brew cask install near-lock
+brew cask install atom
+brew cask install iterm2
+brew cask install vivaldi
+brew cask install shiftit
