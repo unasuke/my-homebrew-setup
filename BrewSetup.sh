@@ -12,6 +12,7 @@ brew tap phinze/homebrew-cask        # homebrew-cask
 brew tap sanemat/font		# Ricty
 brew tap homebrew/science		# OpenCV
 brew tap caskroom/fonts		# fonts
+brew tap motemen/ghq		# ghq
 
 # build or install
 brew install git
@@ -36,6 +37,8 @@ brew install android
 brew install imagemagick
 brew install heroku-toolbelt
 brew install unar
+brew install peco
+brew install ghq
 
 brew linkapps
 
