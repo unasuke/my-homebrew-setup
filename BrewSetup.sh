@@ -63,6 +63,7 @@ brew cask install dash
 brew cask install dropbox
 brew cask install evernote
 brew cask install firefox
+brew cask install fitbit-connect
 brew cask install font-fontawesome
 brew cask install font-inconsolata
 brew cask install font-koruri
