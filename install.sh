@@ -5,3 +5,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 # Homebrew Doctor
 brew doctor
+
+# setup
+./BrewSetup.sh
