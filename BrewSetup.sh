@@ -45,6 +45,7 @@ brew install unar
 brew install vim --with-lua
 brew install wget
 brew install zsh
+brew install zsh-completions
 
 
 brew linkapps
