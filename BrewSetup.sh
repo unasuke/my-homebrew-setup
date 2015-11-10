@@ -31,7 +31,6 @@ brew install peco
 brew install phantomjs
 brew install postgresql
 brew install python
-brew install rbenv-default-gems
 brew install reattach-to-user-namespace
 brew install redis
 brew install ricty
