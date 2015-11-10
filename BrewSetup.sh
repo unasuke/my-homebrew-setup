@@ -5,9 +5,9 @@ brew update
 brew upgrade
 
 # Add Repository
-brew tap sanemat/font		# Ricty
-brew tap phinze/homebrew-cask   # homebrew-cask
-brew tap caskroom/fonts		# fonts
+brew tap sanemat/font		      # Ricty
+brew install caskroom/cask/brew-cask  # homebrew-cask
+brew tap caskroom/fonts		      # fonts
 
 # brew leaves at 2015-11-07
 brew install android-sdk
